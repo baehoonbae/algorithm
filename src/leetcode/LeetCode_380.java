@@ -14,7 +14,7 @@ public class LeetCode_380 {
     public Map<Integer, Integer> m;
 
     public LeetCode_380() {
-        list=new ArrayList<>();
+        list = new ArrayList<>();
         m = new HashMap<>();
     }
 
@@ -43,7 +43,7 @@ public class LeetCode_380 {
     }
 
     public int getRandom() {
-        Random rand= new Random();
+        Random rand = new Random();
         return list.get(rand.nextInt(list.size()));
     }
 }

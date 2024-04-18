@@ -42,3 +42,4 @@ public class Dijikstra {
         return distance;
     }
 }
+

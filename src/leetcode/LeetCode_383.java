@@ -14,6 +14,7 @@ public class LeetCode_383 {
             count[c - 'a']++;
         }
 
+
         for (char c : ransomNote.toCharArray()) {
             if (count[c - 'a'] == 0) {
                 return false;

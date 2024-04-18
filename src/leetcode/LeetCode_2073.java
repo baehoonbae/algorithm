@@ -42,3 +42,4 @@ public class LeetCode_2073 {
         System.out.println(timeRequiredToBuy(tickets, k));
     }
 }
+

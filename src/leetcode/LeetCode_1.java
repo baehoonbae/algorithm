@@ -14,3 +14,4 @@ public class LeetCode_1 {
         return sum;
     }
 }
+

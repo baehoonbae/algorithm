@@ -21,7 +21,6 @@ public class LeetCode_287 {
         }
 
         a = nums[0];
-
         while (a != b) {
             a = nums[a];
             b = nums[b];

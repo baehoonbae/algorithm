@@ -36,3 +36,5 @@ public class Baekjoon_12849 {
         System.out.println(dp[d][0]);
     }
 }
+
+

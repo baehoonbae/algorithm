@@ -28,3 +28,4 @@ public class LeetCode_41 {
         return n + 1;
     }
 }
+

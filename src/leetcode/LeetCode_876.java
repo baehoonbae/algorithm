@@ -26,3 +26,4 @@ public class LeetCode_876 {
         return current;
     }
 }
+

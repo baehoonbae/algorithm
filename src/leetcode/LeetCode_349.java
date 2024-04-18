@@ -22,7 +22,7 @@ public class LeetCode_349 {
         }
 
         int[] answer = new int[list.size()];
-        for(int i=0;i<answer.length;i++){
+        for (int i = 0; i < answer.length; i++) {
             answer[i] = list.removeFirst();
         }
 

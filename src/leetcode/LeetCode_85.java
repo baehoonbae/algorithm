@@ -72,3 +72,4 @@ public class LeetCode_85 {
         System.out.println(s.maximalRectangle(matrix)); // 6
     }
 }
+

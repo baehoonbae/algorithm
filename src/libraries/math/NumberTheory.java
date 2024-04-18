@@ -34,5 +34,4 @@ public class NumberTheory {
         }
         return result;
     }
-
 }

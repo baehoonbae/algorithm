@@ -10,3 +10,4 @@ public class LeetCode_787 {
         return 1;
     }
 }
+

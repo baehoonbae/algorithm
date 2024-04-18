@@ -59,3 +59,5 @@ public class Baekjoon_2992 {
         return true;
     }
 }
+
+

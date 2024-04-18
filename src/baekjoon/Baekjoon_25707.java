@@ -32,3 +32,4 @@ public class Baekjoon_25707 {
         System.out.println(sum);
     }
 }
+

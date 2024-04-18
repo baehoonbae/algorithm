@@ -20,3 +20,4 @@ public class LeetCode_100 {
         return p.val == q.val && isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
     }
 }
+
