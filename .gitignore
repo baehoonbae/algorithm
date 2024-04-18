@@ -1,0 +1,7 @@
+# Ignore everything
+/*
+/src/Main.java
+
+# But not these files...
+!/src/
+!.gitignore
