@@ -8,4 +8,3 @@ public class CalculateTreeHeight {
         return 1 + Math.max(calculateTreeHeight(root.left), calculateTreeHeight(root.right));
     }
 }
-
