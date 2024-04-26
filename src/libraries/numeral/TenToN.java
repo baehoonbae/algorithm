@@ -17,4 +17,3 @@ public class TenToN {
         return sb.reverse();
     }
 }
-

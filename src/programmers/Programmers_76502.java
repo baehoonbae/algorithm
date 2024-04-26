@@ -51,4 +51,3 @@ public class Programmers_76502 {
         return stack.isEmpty();
     }
 }
-

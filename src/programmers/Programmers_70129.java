@@ -28,5 +28,4 @@ public class Programmers_70129 {
 
         return answer;
     }
-
 }
