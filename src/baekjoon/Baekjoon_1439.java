@@ -31,4 +31,3 @@ public class Baekjoon_1439 {
         System.out.println(Math.min(oneCount,zeroCount));
     }
 }
-

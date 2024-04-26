@@ -42,5 +42,3 @@ public class Baekjoon_9658 {
         System.out.println(winner[n]);
     }
 }
-
-

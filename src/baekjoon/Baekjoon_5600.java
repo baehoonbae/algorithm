@@ -59,5 +59,3 @@ public class Baekjoon_5600 {
         }
     }
 }
-
-

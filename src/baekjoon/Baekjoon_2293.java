@@ -27,4 +27,3 @@ public class Baekjoon_2293 {
         System.out.println(dp[k]);
     }
 }
-

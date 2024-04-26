@@ -43,5 +43,3 @@ public class Baekjoon_20301 {
         System.out.println(sb);
     }
 }
-
-
