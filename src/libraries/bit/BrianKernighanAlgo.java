@@ -16,4 +16,3 @@ public class BrianKernighanAlgo {
         return count;
     }
 }
-
