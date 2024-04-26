@@ -8,5 +8,3 @@ public class CreatePhoneNumber {
                 numbers[6], numbers[7], numbers[8], numbers[9]);
     }
 }
-
-
