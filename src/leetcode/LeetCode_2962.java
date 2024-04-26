@@ -40,4 +40,3 @@ public class LeetCode_2962 {
         return answer;
     }
 }
-

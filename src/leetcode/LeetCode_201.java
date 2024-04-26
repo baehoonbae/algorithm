@@ -8,4 +8,3 @@ public class LeetCode_201 {
         return right;
     }
 }
-

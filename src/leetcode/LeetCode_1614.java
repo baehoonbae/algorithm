@@ -30,4 +30,3 @@ public class LeetCode_1614 {
         return maxDepth;
     }
 }
-

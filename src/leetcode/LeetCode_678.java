@@ -48,4 +48,3 @@ public class LeetCode_678 {
         return left.isEmpty();
     }
 }
-

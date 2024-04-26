@@ -22,4 +22,3 @@ public class LeetCode_274 {
         return maxH;
     }
 }
-

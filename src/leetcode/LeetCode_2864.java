@@ -24,4 +24,3 @@ public class LeetCode_2864 {
         return sb[1].reverse().toString();
     }
 }
-

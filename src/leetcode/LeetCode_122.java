@@ -25,7 +25,6 @@ public class LeetCode_122 {
                 maxProfit = 0;
             }
         }
-
         return sum;
     }
 }

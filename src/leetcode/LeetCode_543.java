@@ -27,4 +27,3 @@ public class LeetCode_543 {
         return Math.max(leftDepth, rightDepth) + 1;
     }
 }
-

@@ -44,4 +44,3 @@ public class LeetCode_950 {
         System.out.println(Arrays.toString(solution.deckRevealedIncreasing(deck)));
     }
 }
-

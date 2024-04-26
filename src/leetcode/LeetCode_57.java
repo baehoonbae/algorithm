@@ -11,7 +11,6 @@ import java.util.*;
 // 공간 복잡도: O(n)
 // 알고리즘: 배열
 
-
 public class LeetCode_57 {
     public int[][] insert(int[][] intervals, int[] newInterval) {
         int i = 0;

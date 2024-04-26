@@ -31,4 +31,3 @@ public class LeetCode_621 {
         return idle < 0 ? tasks.length : tasks.length + idle;
     }
 }
-

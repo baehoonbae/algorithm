@@ -25,4 +25,3 @@ public class LeetCode_206 {
         return prev;
     }
 }
-

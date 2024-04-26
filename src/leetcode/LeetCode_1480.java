@@ -8,4 +8,3 @@ public class LeetCode_1480 {
         return nums;
     }
 }
-

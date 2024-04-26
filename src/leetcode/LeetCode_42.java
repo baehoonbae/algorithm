@@ -43,4 +43,3 @@ public class LeetCode_42 {
         return area;
     }
 }
-

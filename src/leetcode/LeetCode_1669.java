@@ -39,4 +39,3 @@ public class LeetCode_1669 {
         return current;
     }
 }
-

@@ -30,4 +30,3 @@ public class LeetCode_2958 {
         return maxIdx;
     }
 }
-

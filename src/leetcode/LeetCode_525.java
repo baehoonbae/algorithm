@@ -37,4 +37,3 @@ public class LeetCode_525 {
         return maxLength;
     }
 }
-

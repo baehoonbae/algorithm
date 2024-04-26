@@ -31,4 +31,3 @@ public class LeetCode_1750 {
         return count;
     }
 }
-

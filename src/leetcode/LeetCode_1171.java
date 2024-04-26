@@ -46,4 +46,3 @@ public class LeetCode_1171 {
         return dummy.next;
     }
 }
-

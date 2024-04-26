@@ -25,4 +25,3 @@ public class LeetCode_2485 {
         return -1;
     }
 }
-

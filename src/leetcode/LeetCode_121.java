@@ -24,5 +24,4 @@ public class LeetCode_121 {
 
         return maxProfit;
     }
-
 }

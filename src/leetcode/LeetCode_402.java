@@ -54,4 +54,3 @@ public class LeetCode_402 {
         System.out.println(solution.removeKdigits("112", 1)); // 0
     }
 }
-

@@ -31,4 +31,3 @@ public class LeetCode_125 {
         return true;
     }
 }
-

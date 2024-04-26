@@ -33,4 +33,3 @@ public class LeetCode_404 {
         return left + right;
     }
 }
-

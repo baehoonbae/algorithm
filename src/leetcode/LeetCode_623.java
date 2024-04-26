@@ -59,4 +59,3 @@ public class LeetCode_623 {
         System.out.println(solution.addOneRow(root, 1, 2));
     }
 }
-

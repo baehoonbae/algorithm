@@ -10,7 +10,6 @@ import java.util.Arrays;
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
-
 public class LeetCode_45 {
     public int canJump(int[] nums) {
         int jump = 0;

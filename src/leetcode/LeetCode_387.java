@@ -16,4 +16,3 @@ public class LeetCode_387 {
         return -1;
     }
 }
-

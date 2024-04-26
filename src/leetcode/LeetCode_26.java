@@ -15,4 +15,3 @@ public class LeetCode_26 {
         return k;
     }
 }
-
