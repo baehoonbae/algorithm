@@ -99,5 +99,6 @@ public class Baekjoon_1347 {
             }
             System.out.println();
         }
+
     }
 }
