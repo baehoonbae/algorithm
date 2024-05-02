@@ -38,7 +38,7 @@ public class LeetCode_834 {
     }
 
     public void dfs(int node, int parent) {
-        count[node]=1;
+        count[node] = 1;
         for (int child : graph[node])
             if (child != parent) {
                 dfs(child, node);
