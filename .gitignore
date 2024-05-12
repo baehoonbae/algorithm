@@ -5,4 +5,4 @@
 # But not these files...
 !/src/
 !.gitignore
-!.README.md
+!.md
